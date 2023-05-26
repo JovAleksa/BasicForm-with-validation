@@ -1,3 +1,6 @@
+This project is basic login form with validation. Use custom hooks. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
